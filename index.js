@@ -1,3 +1,3 @@
-export function testFunction(string) {
+export const sample = (string) => {
   return 'test' + string;
-}
+};
