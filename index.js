@@ -1,3 +1,3 @@
 export function testFunction(string) {
-  return 'test' + string;
+  return 'test hi' + string;
 }
