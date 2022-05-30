@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abhishek305/testing-pack/issues"
   },
-  "homepage": "https://github.com/abhishek305/testing-pack#readme"
+  "homepage": "https://github.com/abhishek305/testing-pack#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
